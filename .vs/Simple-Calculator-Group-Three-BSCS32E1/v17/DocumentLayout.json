@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Simple-Calculator-Group-Three-BSCS32E1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE84CF1-3B05-4466-BCA9-EC06D8C7E992}|Simple-Calculator-Group-Three-BSCS32E1.csproj|e:\\github\\simple-calculator-group-three-bscs32e1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1FE84CF1-3B05-4466-BCA9-EC06D8C7E992}|Simple-Calculator-Group-Three-BSCS32E1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE84CF1-3B05-4466-BCA9-EC06D8C7E992}|Simple-Calculator-Group-Three-BSCS32E1.csproj|e:\\github\\simple-calculator-group-three-bscs32e1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FE84CF1-3B05-4466-BCA9-EC06D8C7E992}|Simple-Calculator-Group-Three-BSCS32E1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE84CF1-3B05-4466-BCA9-EC06D8C7E992}|Simple-Calculator-Group-Three-BSCS32E1.csproj|e:\\github\\simple-calculator-group-three-bscs32e1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FE84CF1-3B05-4466-BCA9-EC06D8C7E992}|Simple-Calculator-Group-Three-BSCS32E1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Github\\Simple-Calculator-Group-Three-BSCS32E1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Github\\Simple-Calculator-Group-Three-BSCS32E1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T06:13:06.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Github\\Simple-Calculator-Group-Three-BSCS32E1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Github\\Simple-Calculator-Group-Three-BSCS32E1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T06:12:07.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Github\\Simple-Calculator-Group-Three-BSCS32E1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Github\\Simple-Calculator-Group-Three-BSCS32E1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T06:11:50.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

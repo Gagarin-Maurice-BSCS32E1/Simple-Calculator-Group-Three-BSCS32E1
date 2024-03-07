@@ -1,0 +1,114 @@
+.keys {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 25px;
+}
+
+#none {
+    background-color: transparent;
+    cursor: auto;
+}
+
+#clear {
+    background-color: rgb(113, 228, 113);
+}
+
+#opbtn {
+    background-color: rgb(243, 176, 31);
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    transition: 0.3s;
+    font-family: verdana;
+}
+
+.calc {
+    max-width: 500px;
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 4px 4px #989898;
+}
+
+#display {
+    width: 100%;
+    font-size: 75px;
+    border: none;
+    background-color: #cbcbcb;
+    text-align: right;
+    cursor: auto;
+    display: flex;
+    flex-grow: initial;
+    height: 130px;
+    border-bottom: #d9d9d9;
+}
+
+button:hover {
+    background-color: #e7e7e7;
+}
+
+button:active {
+    background-color: #ffffff;
+}
+
+#clear:hover {
+    background-color: rgb(109, 222, 109);
+}
+
+#clear:active {
+    background-color: rgb(132, 247, 132);
+}
+
+#opbtn:hover {
+    background-color: rgb(255, 174, 0);
+}
+
+#opbtn:active {
+    background-color: rgb(255, 191, 52);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(to right, rgb(60, 144, 144), rgb(145, 213, 145));
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-items: flex-start;
+}
+
+.footer {
+    position: fixed;
+    background-color: rgb(36, 36, 36);
+    padding: 5px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    height: fit-content;
+    color: white;
+}
+
+    .footer p {
+        text-align: center;
+        font-size: 15px;
+    }
+
+.footer-abt a {
+    text-decoration: none;
+    color: black;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}

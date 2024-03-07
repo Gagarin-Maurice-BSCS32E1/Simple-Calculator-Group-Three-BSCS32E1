@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Simple-Calculator-Group-Three-BSCS32E1.props" />
+</Project>
